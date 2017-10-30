@@ -8,8 +8,8 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
-
 <body>
+
 <div id="navcontainer">
 <ul id="navlist">
 <li ><a href="index.shtml" >Main Page</a></li>
@@ -20,9 +20,6 @@
 <li ><a href="rich.shtml" >Rich Media</a></li>
 <li ><a href="elements.shtml">Elements</a></li>
 <li ><a href="ida2.shtml" >IGME 102</a></li>
-<li><a href="page%202.shtml">Programming</a></li>
-<li><a href="page%203.shtml">Graphical Editors</a></li>
-<li><a href="page%206.shtml">Calculator</a></li>
 <li><a href="page%207.shtml">About Me</a></li>
 
 </ul>
@@ -35,6 +32,7 @@ These are the models that I created for the purpose of a collaborative 3d animat
 <a href="https://github.com/dap4092/portfolio/blob/master/barrel.png">Barrel</a>
 <a href="https://github.com/dap4092/portfolio/blob/master/chest.png">Chest</a>
 <a href="https://github.com/dap4092/portfolio/blob/master/coin.png">Coin</a>
+<img src="portfolio/portfolio/barrel.png" alt="hi" />
 
 </p>
 <br /><br /><br /><br /><br />
